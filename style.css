@@ -41,3 +41,22 @@ body {
 .question {
   color: gray;
 }
+.clear {
+  color: #03a9f4;
+}
+.typeForm {
+  text-align: center;
+  outline: none;
+  border: none;
+}
+.typeFormWrapper {
+  border-bottom: 1px solid gray;
+}
+.guage {
+  height: 12px;
+  transition: all 0.3s ease;
+}
+.guageWrapper {
+  border: 1px solid;
+  height: 12px;
+}
